@@ -4,7 +4,7 @@ An end-to-end AI system design for a customer support chatbot built for SaaS or 
 
 ---
 
-## Project Details
+## Project Details.
 
 | Field      | Value                                    |
 |------------|------------------------------------------|
